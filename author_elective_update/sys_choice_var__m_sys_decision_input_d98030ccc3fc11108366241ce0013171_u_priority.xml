@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_priority" table="var__m_sys_decision_input_d98030ccc3fc11108366241ce0013171" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_priority</element>
+            <name>var__m_sys_decision_input_d98030ccc3fc11108366241ce0013171</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-15 05:23:23</sys_created_on>
+            <sys_id>b90cd5ccc37051108366241ce00131b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_priority</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_choice_var__m_sys_decision_input_d98030ccc3fc11108366241ce0013171_u_priority</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-15 05:23:23</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 - Critical</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_d98030ccc3fc11108366241ce0013171</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-15 05:23:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c7eb19ccc37051108366241ce001314c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-15 05:23:23</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2 - High</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_d98030ccc3fc11108366241ce0013171</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-15 05:23:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>620cd5ccc37051108366241ce001311d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-15 05:23:34</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3 - Moderate</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_d98030ccc3fc11108366241ce0013171</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-15 05:23:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0f1c95ccc37051108366241ce0013107</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-15 05:23:51</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4 - Low</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_d98030ccc3fc11108366241ce0013171</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-15 05:24:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4f2c99ccc37051108366241ce00131f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-15 05:24:08</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5 - Planning</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_d98030ccc3fc11108366241ce0013171</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-15 05:24:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b63c95ccc37051108366241ce001314c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-15 05:24:22</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
